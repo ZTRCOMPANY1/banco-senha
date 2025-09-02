@@ -1,3 +1,4 @@
-{
-  "passwords": ["ztr12", "admin123", "teste2025"]
-}
+[
+  { "user": "julio", "hash": "03ac674216f3e15c761ee1a5e255f067953623c8f" },
+  { "user": "admin", "hash": "0192023a7bbd73250516f069df18b500" }
+]
